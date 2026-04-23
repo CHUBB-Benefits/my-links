@@ -1,7 +1,7 @@
 ---
-avatar-name: "Octo Katz"
+avatar-name: "J. Elliot Shields"
 avatar-url: "assets/img/avatar.jpg"
-avatar-alt-text: "This is a description of what my avatar looks like for people who can't see it."
+avatar-alt-text: "Young man smiling in a dark blue suit and tie."
 interest-prefix: "My interests:"
 ---
 
