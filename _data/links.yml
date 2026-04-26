@@ -1,5 +1,5 @@
-- text: Category
-  url: https://lifehappens.org/
+- text: Website
+  url: https://www.linkedin.com/in/elliotshields/
   icon: globe2
 - text: LinkedIn
   url: https://www.linkedin.com/in/elliotshields/
@@ -8,5 +8,8 @@
   url: https://www.facebook.com/Elliot.Shields
   icon: facebook
 - text: Instagram
-  url: https://www.instagram.com/wealth-shieldswealth/
+  url: https://www.instagram.com/shieldsy2.0/
+  icon: instagram
+  - text: Instagram
+  url: https://www.instagram.com/wealthshieldswealth/
   icon: instagram
