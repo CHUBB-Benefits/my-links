@@ -1,9 +1,15 @@
-- text: Website
-  url: https://www.google.com/
-  icon: globe2
 - text: LinkedIn
   url: https://www.linkedin.com/in/elliotshields/
   icon: linkedin
+- text: Book In Person Coverage Review
+  url: https://app.usemotion.com/meet/elliot-shields-5jnb/6dtmdpx
+  icon: globe2
+- text: Book In Person Application Meeting
+  url: https://app.usemotion.com/meet/elliot-shields-5jnb/f9lc6f1
+  icon: globe2
+- text: Book Virtual Coverage Review
+  url: https://app.usemotion.com/meet/elliot-shields-5jnb/3s7hn8x
+  icon: globe2
 - text: Facebook
   url: https://www.facebook.com/Elliot.Shields/
   icon: facebook
