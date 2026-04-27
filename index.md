@@ -6,5 +6,4 @@ interest-prefix: ""
 ---
 
 "Get hurt. Get sick. Get paid."<br><br>
-My goal is to protect 10,000 families by 2038.
-<br>
+My goal is to protect 10,000 families by 2038.<br>
