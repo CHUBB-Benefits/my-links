@@ -5,7 +5,6 @@ avatar-alt-text: "Young man smiling calmly in a dark blue suit and tie. His eyes
 interest-prefix: "Interests:"
 ---
 
-"Get hurt. Get sick. Get paid."
-
+"Get hurt. Get sick. Get paid."<br>
 My goal is to protect 10,000 families by 2038.
 
