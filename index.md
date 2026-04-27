@@ -2,7 +2,7 @@
 avatar-name: "J. Elliot Shields"
 avatar-url: "assets/img/img-0373_QRYfMVwF.jpg"
 avatar-alt-text: "Young man smiling calmly in a dark blue suit and tie. His eyes look kind, competent, and trustworthy."
-interest-prefix: "My interests:"
+interest-prefix: "Interests:"
 ---
 
 "Get hurt. Get sick. Get paid."
