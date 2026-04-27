@@ -1,5 +1,5 @@
 ---
-avatar-name: "J. Elliot Shields, Full LLQP"
+avatar-name: "J. Elliot Shields, LLQP"
 avatar-url: "assets/img/img-0373_QRYfMVwF.jpg"
 avatar-alt-text: "Young man smiling calmly in a dark blue suit and tie. His eyes look kind, competent, and trustworthy."
 interest-prefix: ""
