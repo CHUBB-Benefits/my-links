@@ -17,3 +17,16 @@ svg {
 
   border-radius: 16px; /* optional */
 }
+/* First 3 meeting booking links (featured) */
+.featured-link {
+  background: #0ea5e9;         /* change this colour */
+  border-color: #0ea5e9;
+  color: #ffffff !important;
+}
+
+.featured-link:hover,
+.featured-link:focus-visible {
+  background: #0284c7;         /* hover colour */
+  border-color: #0284c7;
+  color: #ffffff !important;
+}
